@@ -31,7 +31,7 @@ I'm currently pursuing my degree in Ingeniería Electrónica de Comunicaciones a
 
 ## 🏅 Certifications
 
-[![Cisco Certified Badge](https://images.credly.com/size/340x340/images/4706b371-cfba-4bc7-a6b4-3b4c7d95c2c7/image.png)]
+[![Cisco Certified Badge](https://images.credly.com/size/340x340/images/4706b371-cfba-4bc7-a6b4-3b4c7d95c2c7/image.png)](https://www.credly.com/badges/c59471e7-a07d-4e74-a7a7-dc43783ffadd/public_url)  
 [View Badge](https://www.credly.com/badges/c59471e7-a07d-4e74-a7a7-dc43783ffadd/public_url)
 
 ---
