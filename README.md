@@ -22,7 +22,6 @@ IP, TCP, UDP, OSPF, BGP, SDN, MPLS, LDP
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 ### Software & Tools
-VSCode, Eclipse, VMware, VirtualBox, Cisco, Wireshark, Keil uVision
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23E67C73.svg?style=for-the-badge&logo=MATLAB&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
