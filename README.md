@@ -8,9 +8,34 @@
 
 ## 🛠️ Skills & Technologies
 
-- **Networking:** IP, TCP, UDP, OSPF, BGP, SDN, MPLS, LDP
-- **Programming:** Java, C, C++, Python, Bash, Assembler
-- **Software & Tools:** VSCode, Eclipse, VMware, VirtualBox, Cisco, Wireshark, Keil uVision
+### Networking
+
+IP, TCP, UDP, OSPF, BGP, SDN, MPLS, LDP
+
+### Programming
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+
+### Software & Tools
+VSCode, Eclipse, VMware, VirtualBox, Cisco, Wireshark, Keil uVision
+![MATLAB](https://img.shields.io/badge/MATLAB-%23E67C73.svg?style=for-the-badge&logo=MATLAB&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+![vmware](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
+![virtualbox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-7E3791?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-003445?style=for-the-badge&logo=metasploit&logoColor=white)
+
+### Platforms
+![Cisco](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Hack The Box](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 
 ---
 
