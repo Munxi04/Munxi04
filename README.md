@@ -1,8 +1,14 @@
-# 👋 Hi, I'm Munxi04!
+<p align="center">
+<img width=80% src="resources/banner.png" alt="Banner">
+</p>
 
-🎓 **Student** | Ingeniería Electrónica de Comunicaciones & Ingeniería Telemática  
-🏫 **Universidad Politécnica de Madrid**  
-🔐 **Aspiring Cybersecurity Specialist**
+# 🙋🏻‍♀️ whoami
+Hi, I'm **Belén Martín**, welcome to my github.
+I'm currently pursuing my degree in Ingeniería Electrónica de Comunicaciones and Ingeniería Telemática at Universidad Politécnica de Madrid. With a strong interest in network engineering and a growing passion for cybersecurity, I enjoy exploring computer networks and security.
+
+>🎓 **Student** | Ingeniería Electrónica de Comunicaciones & Ingeniería Telemática  
+>🏫 **Universidad Politécnica de Madrid**  
+>🔐 **Aspiring Cybersecurity Specialist**
 
 ---
 
@@ -38,12 +44,6 @@ IP, TCP, UDP, OSPF, BGP, SDN, MPLS, LDP
 
 ---
 
-## 💡 About Me
-
-I'm currently pursuing my degree in Ingeniería Electrónica de Comunicaciones and Ingeniería Telemática at Universidad Politécnica de Madrid. With a strong interest in network engineering and a growing passion for cybersecurity, I enjoy exploring both the theoretical and practical aspects of computer networks and security.
-
----
-
 ## 🌱 What I'm Learning
 
 - Advanced network protocols and architectures
@@ -60,7 +60,7 @@ I'm currently pursuing my degree in Ingeniería Electrónica de Comunicaciones a
 
 ---
 
-## 📫 Connect with Me
+## 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/Munxi04)
 
