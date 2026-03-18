@@ -4,11 +4,11 @@
 
 # 🙋🏻‍♀️ whoami
 Hi, I'm **Belén Martín**, welcome to my github.
-I'm currently pursuing my degree in Ingeniería Electrónica de Comunicaciones and Ingeniería Telemática at Universidad Politécnica de Madrid. With a strong interest in network engineering and a growing passion for cybersecurity, I enjoy exploring computer networks and security.
+I'm currently pursuing my degree in Ingeniería Electrónica de Comunicaciones and Ingeniería Telemática at Universidad Politécnica de Madrid. With a strong interest in embedded systems and network engineering, I enjoy exploring where they intersect: the security of connected devices and embedded systems.
 
 >🎓 **Student** | Ingeniería Electrónica de Comunicaciones & Ingeniería Telemática  
 >🏫 **Universidad Politécnica de Madrid**  
->🔐 **Aspiring Cybersecurity Specialist**
+>⚙️ **Aspiring Embedded Systems Specialist |** 🌐 **Network Engineering |** 🔐 **Cybersecurity Enthusiast**
 
 ---
 
@@ -20,10 +20,12 @@ IP, TCP, UDP, OSPF, BGP, SDN, MPLS, LDP
 
 ### Programming
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%2523-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![xml](https://img.shields.io/badge/XML-767C52?style=for-the-badge&logo=xml&logoColor=white)
 ![bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
@@ -37,6 +39,7 @@ IP, TCP, UDP, OSPF, BGP, SDN, MPLS, LDP
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-7E3791?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-003445?style=for-the-badge&logo=metasploit&logoColor=white)
+![Keil](https://img.shields.io/badge/Keil-0081CB?style=for-the-badge&logo=arm&logoColor=white)
 
 ### Platforms
 ![Cisco](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
@@ -49,6 +52,9 @@ IP, TCP, UDP, OSPF, BGP, SDN, MPLS, LDP
 - Advanced network protocols and architectures
 - Cybersecurity fundamentals and ethical hacking
 - Automation in networking (SDN, scripting)
+- Microprocessor-based systems (STM32, embedded Linux)
+- Raspberry Pi and embedded system design
+- Linux system programming and configuration
 - Currently taking [HTB Academy](https://academy.hackthebox.com/) cybersecurity courses
 
 ---
