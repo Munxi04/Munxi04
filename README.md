@@ -79,8 +79,9 @@ IP, TCP, UDP, OSPF, BGP, SDN, MPLS, LDP
 
 ---
 
-## Some Stats
+## 📊 Some Stats
 ![Github profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Munxi04&theme=radical)
+![Github profile Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Munxi04&theme=radical)
 
 <!--
 **Munxi04/Munxi04** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
