@@ -51,7 +51,7 @@ IP, TCP, UDP, OSPF, BGP, SDN, MPLS, LDP
 ![GitBook](https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![RasPi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-!TRYHACKME](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)
+![TRYHACKME](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)
 
 ---
 
@@ -80,8 +80,8 @@ IP, TCP, UDP, OSPF, BGP, SDN, MPLS, LDP
 ---
 
 ## 📊 Some Stats
-![Github profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Munxi04&theme=radical)
-![Github profile Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Munxi04&theme=radical)
+![Github profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Munxi04&theme=nord_bright)
+![Github profile stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Munxi04&theme=catppuccin_latte)
 
 <!--
 **Munxi04/Munxi04** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
